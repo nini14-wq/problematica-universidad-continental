@@ -1,0 +1,42 @@
+UN TRÍO OCULTO — WEB EXPOSITIVA
+
+PARA ABRIR
+Haz doble clic en index.html o en ABRIR-PAGINA.cmd.
+No necesita instalación ni conexión a internet para el contenido, el video y las interacciones.
+Los enlaces a artículos científicos sí requieren internet.
+
+PARA EXPONER EN CLASE
+El recorrido termina con el video, después de la pausa interactiva.
+El enlace «El video» del menú permite ir directamente al cierre audiovisual.
+Pulsa Reproducir y usa el botón de pantalla completa del reproductor.
+El video no se reproduce automáticamente.
+
+CONTENIDO INTERACTIVO
+— Cuatro momentos explorables del ciclo.
+— Cuatro paneles sobre procesos cognitivos.
+— Marcos biológicos y sociales desplegables.
+— Fichas de evidencia y glosario.
+— Pausa de 90 segundos con tres fases, pausa, continuación y reinicio.
+— Escalas opcionales de intensidad. No envían ni guardan información.
+— Botón para activar o desactivar el resaltado de conceptos.
+
+ARCHIVOS
+index.html: contenido y estructura.
+styles.css: diseño y adaptación a móvil, tableta y escritorio.
+app.js: interacciones.
+assets/: gráficos vectoriales propios.
+WhatsApp Video 2026-10-28 at 3.44.20 PM.mp4: video original, sin modificaciones.
+work/: recursos de revisión y servidor local opcional.
+
+Conserva estos archivos juntos. Puedes copiar la carpeta completa a otro equipo.
+
+REFERENCIAS
+Las cuatro referencias recibidas contenían discrepancias bibliográficas.
+La sección «La evidencia» detalla las correcciones y enlaza fuentes verificables.
+Se distingue entre hallazgos, modelos explicativos y aplicaciones educativas.
+La guía de 90 segundos es una adaptación educativa, no una promesa de que el craving
+desaparezca en ese tiempo. El contenido no sustituye atención profesional.
+
+VISTA LOCAL OPCIONAL
+Si tienes Node.js: ejecuta node work/preview.cjs desde esta carpeta.
+Abre http://127.0.0.1:4173. Cierra la consola para detener el servidor.

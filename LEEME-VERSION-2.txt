@@ -1,0 +1,30 @@
+UN TRÍO OCULTO — VERSIÓN 2
+
+Abre version-2.html o haz doble clic en ABRIR-VERSION-2.cmd.
+
+Esta versión conserva el contenido recibido, en su orden original:
+1. Problematica: Un trio oculto:
+   — Heckman, Ditre y Brandon (2013).
+   — Paulus y Stein (2010).
+   — Ashare y Loughead (2015).
+   — Strowger, Bensen y Zvolensky (2020).
+2. Marcos:
+   — Marcos Biológicos y Neurobiológicos Nuevos (tres modelos).
+   — Marcos Sociales y Contextuales Nuevos (tres modelos).
+3. solucion:
+   — 2. Protocolo de "Aceptación Interoceptiva" (Urge Surfing / Navegación del Impulso).
+4. Video al final, para reproducir en clase.
+
+Se conservan todos los subtítulos, las referencias, la numeración y la redacción
+del material entregado. La flecha matemática se representa como el símbolo →.
+La página de exposición no incluye etiquetas de versión ni comentarios editoriales.
+
+Diseño minimalista de mayor contraste: blanco, tinta oscura y verde profundo.
+Palabras clave marcadas en amarillo. El botón A+ amplía el texto para exponer.
+El índice permite saltar entre apartados sin ocultar el contenido.
+Incluye una pausa opcional de 90 segundos con pausa, continuación y reinicio.
+
+No requiere instalación ni conexión para leer el contenido y ver el video.
+Los enlaces a fuentes científicas sí requieren conexión.
+Conserva version-2.html, version-2.css, version-2.js, assets/ y el video original
+en esta misma carpeta. La versión 1 sigue en index.html.
